@@ -1,5 +1,7 @@
 # @yandex-cloud/eslint-config
 
+> ⚠️ Repository moved to @gravity-ui/eslint-config
+
 ## Install
 ```
 npm install --save-dev eslint @yandex-cloud/eslint-config
